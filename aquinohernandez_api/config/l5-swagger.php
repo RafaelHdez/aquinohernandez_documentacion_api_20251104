@@ -5,7 +5,7 @@ return [
     'documentations' => [
         'default' => [
             'api' => [
-                'title' => 'Manuel Sebastian Gallardo Vasquez',
+                'title' => 'Rafael Angel Aquino Hernández',
             ],
 
             'routes' => [
